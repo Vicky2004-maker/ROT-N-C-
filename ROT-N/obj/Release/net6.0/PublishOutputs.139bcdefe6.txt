@@ -1,0 +1,5 @@
+C:\Users\VIcky\Desktop\ROT N C#\ROT-N.exe
+C:\Users\VIcky\Desktop\ROT N C#\ROT-N.dll
+C:\Users\VIcky\Desktop\ROT N C#\ROT-N.deps.json
+C:\Users\VIcky\Desktop\ROT N C#\ROT-N.runtimeconfig.json
+C:\Users\VIcky\Desktop\ROT N C#\ROT-N.pdb

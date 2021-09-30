@@ -1,0 +1,15 @@
+C:\Users\VIcky\source\repos\ROT-N\bin\Release\net6.0\ROT-N.exe
+C:\Users\VIcky\source\repos\ROT-N\bin\Release\net6.0\ROT-N.deps.json
+C:\Users\VIcky\source\repos\ROT-N\bin\Release\net6.0\ROT-N.runtimeconfig.json
+C:\Users\VIcky\source\repos\ROT-N\bin\Release\net6.0\ROT-N.dll
+C:\Users\VIcky\source\repos\ROT-N\bin\Release\net6.0\ref\ROT-N.dll
+C:\Users\VIcky\source\repos\ROT-N\bin\Release\net6.0\ROT-N.pdb
+C:\Users\VIcky\source\repos\ROT-N\obj\Release\net6.0\ROT-N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIcky\source\repos\ROT-N\obj\Release\net6.0\ROT-N.AssemblyInfoInputs.cache
+C:\Users\VIcky\source\repos\ROT-N\obj\Release\net6.0\ROT-N.AssemblyInfo.cs
+C:\Users\VIcky\source\repos\ROT-N\obj\Release\net6.0\ROT-N.ImplicitNamespaceImports.cs
+C:\Users\VIcky\source\repos\ROT-N\obj\Release\net6.0\ROT-N.csproj.CoreCompileInputs.cache
+C:\Users\VIcky\source\repos\ROT-N\obj\Release\net6.0\ROT-N.dll
+C:\Users\VIcky\source\repos\ROT-N\obj\Release\net6.0\ref\ROT-N.dll
+C:\Users\VIcky\source\repos\ROT-N\obj\Release\net6.0\ROT-N.pdb
+C:\Users\VIcky\source\repos\ROT-N\obj\Release\net6.0\ROT-N.genruntimeconfig.cache
