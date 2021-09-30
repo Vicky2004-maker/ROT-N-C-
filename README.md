@@ -2,7 +2,7 @@
 
 ROT-N (Rotate By 'N' Places) is a encrypting method commonly known as rot13.
 
-_This is a Visual Studio Solution.
+This is a Visual Studio Solution.
 
 This is done in C# but for ROT-N not just rot13.
 
